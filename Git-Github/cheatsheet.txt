@@ -1,0 +1,23 @@
+Crear
+
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Crear un nuevo repositorio local
+$ git init
+
+
+
+Comandos para manejo de ramas en GitHub
+
+Crear una rama:
+git branch branchName
+
+Movernos a otra rama:
+git checkout branchName
+
+Crear una rama en el repositorio local:
+git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
+
+Publicar una rama local al repositorio remoto:
+git push origin nombre-de-la-rama.
