@@ -1,0 +1,10 @@
+Entrega 4
+
+IP publica:201.240.180.178 
+
+IP Privada:10.0.2.15
+
+Dirección MAC:08:00:27:b8:2e:8d
+
+¿Es diferente la direccion pública y privada de nuestra máquina Host?
+La maquina virtual tiene ip pública asignado por el proveedor de internet y la ip privada por el virtualbox, miesntras que la maquina host tenda su propio ip público y privado.
